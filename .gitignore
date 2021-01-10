@@ -1,8 +1,8 @@
 .DS_Store
 .idea
 log
-data
-models
+data/*
+models/*
 
 eval_results/
 
